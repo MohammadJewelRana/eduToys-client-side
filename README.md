@@ -7,11 +7,11 @@ Discover a world of enchantment at our doll website. Explore our exquisite colle
 Hosted in Firebase: 
 
 ### Github Repo Client side:
-Code Link: https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-client-side-ShahidaAkter1
+Code Link:  https://github.com/MohammadJewelRana/eduToys-client-side
 
 
 ### Github Repo Server side:
-Code Link:  https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-ShahidaAkter1
+Code Link:   https://github.com/MohammadJewelRana/eduToys-server-side
 
 ### React Router Dom v6.4
 Documentation Link : https://reactrouter.com/en/main/start/tutorial
